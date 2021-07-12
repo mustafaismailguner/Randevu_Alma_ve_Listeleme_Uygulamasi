@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\bin\Debug\Koru_Sigorta_Randevu_Ekranlari.exe.config
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\bin\Debug\Koru_Sigorta_Randevu_Ekranlari.exe
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\bin\Debug\Koru_Sigorta_Randevu_Ekranlari.pdb
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.Form1.resources
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.Properties.Resources.resources
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.exe
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.pdb
+C:\Users\USER\source\repos\Koru_Sigorta_Randevu_Ekranlari\Koru_Sigorta_Randevu_Ekranlari\obj\Debug\Koru_Sigorta_Randevu_Ekranlari.Form2.resources
